@@ -1,0 +1,44 @@
+site_name: SaltNet 帮助
+site_url: https://docs.salt.realtvop.top/
+site_author: realtvop
+site_description: 'SaltNet 使用帮助'
+
+repo_url: https://github.com/realtvop/SaltNet
+repo_name: realtvop/SaltNet
+
+# 主题配置
+theme:
+  name: material
+  language: zh
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  features: # 开启一些实用功能
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+
+# 导航栏配置 (可选)
+nav:
+  - '首页': 'index.md'
+  - '用户指南':
+    - '安装': 'guide/installation.md'
+    - '配置': 'guide/configuration.md'
+
+# Markdown 扩展 (可选，但推荐)
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - admonition
