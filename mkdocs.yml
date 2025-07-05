@@ -29,6 +29,8 @@ theme:
     - search.suggest
     - search.highlight
     - content.tabs.link
+  logo: assets/logo.png
+  favicon: img/favicon.ico
 
 # 导航栏配置 (可选)
 nav:
