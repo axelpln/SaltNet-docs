@@ -30,7 +30,9 @@ theme:
     - search.highlight
     - content.tabs.link
   logo: assets/logo.png
-  favicon: img/favicon.ico
+  favicon: assets/favicon.ico
+  icon:
+    repo: simple/github
 
 # 导航栏配置 (可选)
 nav:
