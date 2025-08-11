@@ -23,16 +23,16 @@
 
 ## 安卓
 
-首先在浏览器中打开 [SaltNet](https://salt.realtvop.top)页面，点击浏览器 **更多** 按钮（一般为三条横杠）。
-![](../img/pwaGuide/android/step1.png)
-
-> 大部分主流浏览器均支持安装 PWA ，以下为已知的可能不支持此功能的浏览器：
+> 大部分主流浏览器（建议使用[Edge](https://www.microsoft.com/en-us/edge/mobile)，[Google Chrome](https://www.google.com/chrome/)等浏览器）均支持安装 PWA ，以下为已知的可能不支持此功能的浏览器：
 
 | 浏览器 | 版本 |
 |-------|-------|
 | UC浏览器 | （过旧版本，现已支持） |
 | QQ浏览器 | （过旧版本，现已支持） |
 | Firefox | （部分版本，火狐本身对PWA的支持较弱） |
+
+首先在浏览器中打开 [SaltNet](https://salt.realtvop.top) 页面，点击浏览器 **更多** 按钮（一般为三条横杠）。
+![](../img/pwaGuide/android/step1.png)
 
 然后选择“添加到手机”/“添加到主屏幕”/“安装到手机”或类似选项。
 ![](../img/pwaGuide/android/step2.png)
