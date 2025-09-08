@@ -41,12 +41,13 @@ nav:
     - '简介': 'basis/intro.md'
     - '作为应用安装': 'basis/pwa.md'
     - '绑定用户并更新成绩': 'basis/bind.md'
-  - 'Bug 反馈/贡献':
-    - 'Bug 反馈': 'contact/report.md'
-    - '贡献代码': 'contact/contribute.md'
+    - '管理用户': 'basis/users.md'
+  - 'Bug 反馈/贡献': 'contact/contribute.md'
 
 # Markdown 扩展 (可选，但推荐)
 markdown_extensions:
+  - pymdownx.details
   - pymdownx.highlight
   - pymdownx.superfences
+  - pymdownx.tilde
   - admonition
