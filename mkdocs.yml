@@ -49,4 +49,5 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.highlight
   - pymdownx.superfences
+  - pymdownx.tilde
   - admonition

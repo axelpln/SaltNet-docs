@@ -1,12 +1,12 @@
 # 为 SaltNet 添砖加瓦
 
-SaltNet 的前端及后端均已开源，欢迎提出 Issues 和 PullRequests。
+SaltNet 的前端及后端均已开源，欢迎提出 Issues 和 Pull Requests。
 
 我们的 GitHub 仓库链接：https://github.com/realtvop/SaltNet
 
 ## Bug 反馈
 
-有条件请尽量通过 [GitHub Issues](https://github.com/realtvop/SaltNet/issues) 进行反馈，虽然 [QQ 群](https://qm.qq.com/q/s9G3aEedHi)也不是不行，但还请友善发言喵！
+有条件请尽量通过 [GitHub Issues](https://github.com/realtvop/SaltNet/issues) 进行反馈，不知道前者是什么的话 [QQ 群](https://qm.qq.com/q/s9G3aEedHi) 当然也可以，但还请友善发言喵！
 
 ## 许可证
 
